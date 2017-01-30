@@ -1,0 +1,2 @@
+class WelocomeController < ApplicationController
+end
